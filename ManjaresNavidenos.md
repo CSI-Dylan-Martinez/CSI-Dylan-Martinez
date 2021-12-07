@@ -1,5 +1,10 @@
+<div align= "center">
+
 # Manjares Navideños
 ## Lechón asado
+
+</div>
+
 ### Ingredientes:
 
 - 3 dientes de ajo, pelados
