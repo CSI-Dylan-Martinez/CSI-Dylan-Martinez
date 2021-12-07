@@ -2,11 +2,14 @@
 ## Lechón asado
 ### Ingredientes:
 
-- Adobo - 4 Cucharadas.
-- Ajo en Polvo - 4 Cucharadas.
-- Sazon con Achiote - 4 sobres.
-- Oregano - 6 a 8 Hojas (Brujo, Molido)
-- Dientes de Ajo - 12 Dientes (Molidos en el Pilon)
-- Aceite de Oliva - 1/2 taza.
-- Vinagre - 1/2 taza.
-- Paleta de Cerdo - 12 Libras (Pernil)
+- 3 dientes de ajo, pelados
+- Sal
+- 1 cucharadita de pimienta negra recién molida
+- 2 cucharadas de perejil picado
+- 1 cucharada de orégano seco
+- 1 cucharada de aceite de oliva
+- 1 rama de romero fresco
+- 12 libras de pernil
+
+### Referencias: 
+https://www.quericavida.com/recetas/lechon-al-horno-puertorriqueno/2a9b7181-5f6c-4650-b9b9-52d42040e1dd
