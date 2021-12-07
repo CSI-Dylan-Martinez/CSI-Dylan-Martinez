@@ -1,5 +1,7 @@
 <div align= "center">
 
+<img src="https://www.top10puertorico.com/wp-content/uploads/2018/12/lechon.jpg" width="520" height="374"/>
+
 # Manjares Navideños
 ## Lechón asado
 
